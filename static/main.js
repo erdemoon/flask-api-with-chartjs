@@ -108,7 +108,6 @@ function parseDataForChart(data, method) {
   for (item in data[method]) {
     data1.push(data[method][item]);
   }
-  console.log(data1);
   return data1;
 }
 
