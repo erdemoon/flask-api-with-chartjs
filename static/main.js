@@ -1,6 +1,5 @@
 var ctx = document.getElementById("myChart").getContext("2d");
-var timeHour = moment().format("h:mm");
-var timeFromHour = moment().startOf("hour").fromNow();
+
 
 let myChart;
 
