@@ -22,4 +22,3 @@ Shows the log of the given methods
 ### /api/dashboard
 Shows a dashboard of the logs in the last hour
 
-Key Code for Kartaca = gAAAAABgULs5gEIVpixw0T2tc0QbrjJEMBQf4xlbL03ApK6g1tXE3jRv9c088lnw92NOhzXF1kGwlZ5ujB7cF1c3Nm0gmbD70DxeHhnyH8Tgp2gywFScPkI13HR9MgXBnaxX0JVJWkCcJaNp3HHWjcIJ2uLGfNRWT7LFFfYA8xZLn8j2X8E5PUpSGmYVjjIqc9xmS1lF4WLK
